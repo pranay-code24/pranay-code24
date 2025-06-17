@@ -1,8 +1,8 @@
-![person-playing-3d-video-games-device](https://github.com/user-attachments/assets/a5f54ede-f07a-4c5f-9084-41c2f48ecd57)<h1 align="center">Hi 👋, I'm Pranay Gumashta</h1>
+<h1 align="center">Hi 👋, I'm Pranay Gumashta</h1>
 <h3 align="center">Full-Stack Developer | National Finalist - SIH 2024 | ICPC 2024 Prelims Ranker</h3>
 
 <img style="float: right;" alt="coding" width="500" src="https://drive.google.com/file/d/1HOVXo0MahOixKP6qHeMKup_s4zWXvVbK/view?usp=drivesdk">
-- 🌱 I’m currently learning **advanced full-stack development techniques and exploring complex algorithms in competitive programming.**
+- 🌱 I’m currently learning advanced full-stack development techniques and exploring complex algorithms in competitive programming.
 
 - 📫 How to reach me **pranaygumashta@gmail.com**
 
