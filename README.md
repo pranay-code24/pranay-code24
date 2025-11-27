@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranay Gumashta</h1>
-<h3 align="center">Full-Stack Developer | National Finalist - SIH 2024 | ICPC 2024 Prelims Ranker</h3>
+<h3 align="center">Full-Stack Developer | 2x National Finalist - SIH (2025 & 2024) 🔥 | ICPC (2025 & 2024) Prelims Ranker 🔥</h3>
 
 - 🌱 I’m currently learning advanced full-stack development techniques and exploring complex algorithms in competitive programming.
 
